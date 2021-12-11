@@ -1,0 +1,12 @@
+{
+  "name": "effi-js-lib",
+  "version": "1.0.0",
+  "description": "EFFI js lib",
+  "private": true,
+  "keywords": [],
+  "author": "Konstantin Matrokhin",
+  "license": "ISC",
+  "dependencies": {
+    "@fdaciuk/ajax": "^3.0.4"
+  }
+}
