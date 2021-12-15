@@ -7,7 +7,8 @@
   * Works fast in Mozilla/Chrome/Safari, and performance under IE is much better
   * than original Base64 encoder/decoder
   **/
-import bowser from 'bowser'
+
+const bowser = {msie: false};
 
 var Encoder = {
 	sKeyStr_: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
