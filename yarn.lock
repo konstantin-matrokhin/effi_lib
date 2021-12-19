@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@fdaciuk/ajax@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@fdaciuk/ajax/-/ajax-3.0.4.tgz#408645e0b0e0e38333cdb8247e2b91ffe871bbda"
-  integrity sha512-pVTxdfHLSy3Pb0VGVk3NX9L/ahZ6hexJudtLsyR6/a7A4+Kyh7dY0mnMatODXswPQ0tkId1zuEKCjmalnCyYtQ==
+"@fdaciuk/ajax@2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@fdaciuk/ajax/-/ajax-2.3.0.tgz#de1780cdaffa9733b845403de7035ae4961289d7"
+  integrity sha512-BjClAUZEkxUUuvbzt+rjVPvGa7ubgmWF1CsYrGkHIz0bYIlkLc9gKxu+h1AgNbq/U/5HcbbnOiOMgeNPbwBrpA==
